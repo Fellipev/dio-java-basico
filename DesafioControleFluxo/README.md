@@ -1,18 +1,5 @@
-## Getting Started
+##Projeto - Contador
+O projeto conta com 2 classes, uma para executar o projeto, onde 2 números são pedidos como parametros, tendo como regra o segundo número ser maior que o primeiro.
+O projeto deverá imprimir todos os numeros até chegar na subtração do segundo número informado pelo primeiro número informado.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Caso o primeiro número informado for maior que o segundo número, a aplicação deverá soltar uma Exception personalizada.
